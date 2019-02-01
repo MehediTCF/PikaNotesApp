@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399175972891",
+    "firebase_url": "https://pikanotesapp.firebaseio.com",
+    "project_id": "pikanotesapp",
+    "storage_bucket": "pikanotesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399175972891:android:78fbc57e2c49747e",
+        "android_client_info": {
+          "package_name": "com.example.mehed.pikanotesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399175972891-vabtboeu6q8bf7ctsgrejs7565upr3rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mehed.pikanotesapp",
+            "certificate_hash": "a520cea210b889e84959176c93f6f983c1fe166d"
+          }
+        },
+        {
+          "client_id": "399175972891-2ahgnrabggfpvjfchd6if399pg09bj64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn79VnBiaZKiXt6o9018OTuSNWhTNdYis"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399175972891-2ahgnrabggfpvjfchd6if399pg09bj64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
